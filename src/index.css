@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+   font-size: 20px;
+    font-family:  'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container{
+
+  width: 85%;
+  margin: auto;
+}
+
+.ancor{
+  display: block;
+color:black;
+text-decoration: none;
+padding: 10px 15px;
+font-weight: bold; 
+
+}
+  .ancor:hover{
+  
+    color: #eb5424
+ }
